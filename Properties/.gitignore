@@ -1,0 +1,14 @@
+#Carpetas de compilación
+bin/
+obj/
+
+#Configuración de Visual Studio
+.vscode/
+
+#Archivos de sistema
+.DS_Store
+Thumbs.db
+
+#Archivos de entorno
+.env
+appsettings.Development.json
