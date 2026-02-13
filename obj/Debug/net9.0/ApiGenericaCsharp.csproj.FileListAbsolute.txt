@@ -30,3 +30,4 @@ C:\Users\USUARIO\Desktop\ITM\Quinto Semestre\Aplicaciones Y Servicios Web\Proyec
 C:\Users\USUARIO\Desktop\ITM\Quinto Semestre\Aplicaciones Y Servicios Web\ProyectosC#\ApiGenericaCSharp\obj\Debug\net9.0\ApiGenericaCsharp.pdb
 C:\Users\USUARIO\Desktop\ITM\Quinto Semestre\Aplicaciones Y Servicios Web\ProyectosC#\ApiGenericaCSharp\obj\Debug\net9.0\ApiGenericaCsharp.genruntimeconfig.cache
 C:\Users\USUARIO\Desktop\ITM\Quinto Semestre\Aplicaciones Y Servicios Web\ProyectosC#\ApiGenericaCSharp\obj\Debug\net9.0\ref\ApiGenericaCsharp.dll
+C:\Users\USUARIO\Desktop\ITM\Quinto Semestre\Aplicaciones Y Servicios Web\ProyectosC#\ApiGenericaCSharp\obj\Debug\net9.0\ApiGenericaCsharp.sourcelink.json
